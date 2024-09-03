@@ -3,7 +3,9 @@
 
 **Coding in Freetime to improve**
 
-- Things i use: `.psd`
+- My Pronouns: Dark/Souls
+- Things my Media side uses: `.psd` `.indd` `.ai` `.drp`
+- Things i programm in: `.html` `.css` `.js` `.jsx`
 
 <!--
 **saemyyy/saemyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
