@@ -1,6 +1,7 @@
 # Hi there I am Samu!👋
-*Working in the Media Field*
-*Coding in Freetime to improve*
+**Working in the Media Field**
+
+**Coding in Freetime to improve**
 
 <!--
 **saemyyy/saemyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
