@@ -1,7 +1,9 @@
 # Hi there I am Samu!👋
-**Working in the Media Field**
+**Working in the Media**
 
 **Coding in Freetime to improve**
+
+- Things i use: `.psd`
 
 <!--
 **saemyyy/saemyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
