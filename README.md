@@ -4,7 +4,7 @@
 **Coding in Freetime to improve**
 
 - 🌌 My Pronouns: **Dark / Souls**
-- ⭐️ Things my Media side uses: `.psd` `.indd` `.ai` `.drp`
+- ⭐️ Things my Media side uses: `.psd` `.indd` `.ai` `.drp` `.pdf`
 - 🧑‍💻 Things i programm in: `.html` `.css` `.js` `.jsx`
 
 ## Bonus
