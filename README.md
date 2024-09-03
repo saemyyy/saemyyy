@@ -3,12 +3,12 @@
 
 **Coding in Freetime to improve**
 
-- My Pronouns: **Dark / Souls**
-- Things my Media side uses: `.psd` `.indd` `.ai` `.drp`
-- Things i programm in: `.html` `.css` `.js` `.jsx`
+- 🌌 My Pronouns: **Dark / Souls**
+- ⭐️ Things my Media side uses: `.psd` `.indd` `.ai` `.drp`
+- 🧑‍💻 Things i programm in: `.html` `.css` `.js` `.jsx`
 
 ## Bonus
-I enjoy diving into the rich lore of games like Dark Souls, Elden Ring, and Sekiro. The intricate worlds and hidden stories captivate me as much as any coding challenge or media project.
+🕹️ I enjoy diving into the rich lore of games like Dark Souls, Elden Ring, and Sekiro. The intricate worlds and hidden stories captivate me as much as any coding challenge or media project.
 <!--
 **saemyyy/saemyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
