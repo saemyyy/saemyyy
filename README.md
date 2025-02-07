@@ -4,8 +4,8 @@
 **Coding in Freetime to improve**
 
 - 🌌 My Pronouns: **Dark / Souls**
-- ⭐️ Things my Media side uses: `.psd` `.indd` `.ai` `.drp` `.pdf`
-- 🧑‍💻 Things i programm in: `.html` `.css` `.js` `.jsx` `.gd`
+- ⭐️ Mediastack: `.psd` `.indd` `.ai` `.drp` `.pdf`
+- 🧑‍💻 Programmingstack: `.html` `.css` `.js` `.jsx` `.gd`
 
 ## Bonus
 🕹️ I enjoy diving into the rich lore of games like Dark Souls, Elden Ring, and Sekiro. The intricate worlds and hidden stories captivate me as much as any coding challenge or media project.
